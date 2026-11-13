@@ -1,0 +1,307 @@
+{
+ "file": "ClassicPack.swf",
+ "size_mb": 0.4,
+ "swf_version": 37,
+ "declared_body_len": 549771,
+ "actual_body_len": 549763,
+ "tag_total_bytes": 549482,
+ "tag_counts": {
+  "DefineSprite": 9,
+  "DefineShape": 9,
+  "DefineShape3": 5,
+  "DefineBitsJPEG3": 3,
+  "DefineButton2": 3,
+  "DefineEditText": 2,
+  "PlaceObject2": 2,
+  "FileAttributes": 1,
+  "SetBackgroundColor": 1,
+  "EnableDebugger2": 1,
+  "DefineSceneAndFrameLabelData": 1,
+  "ScriptLimits": 1,
+  "DefineBitsJPEG2": 1,
+  "DefineShape2": 1,
+  "DefineFont3": 1,
+  "DefineFontAlignZones": 1,
+  "DefineFontName": 1,
+  "PlaceObject3": 1,
+  "DoABC": 1,
+  "SymbolClass": 1,
+  "ShowFrame": 1
+ },
+ "abc_blocks": [
+  {
+   "name": "",
+   "bytes": 80354,
+   "code_bytes": 41936
+  }
+ ],
+ "parse_failures": [],
+ "stats": {
+  "abc_blocks": 1,
+  "methods": 277,
+  "bodies": 277,
+  "classes": 18,
+  "multinames": 1424,
+  "code_bytes": 41936,
+  "total_instr": 17678
+ },
+ "top_opcodes": [
+  {
+   "op": "debugline",
+   "count": 2293,
+   "pct": 12.97
+  },
+  {
+   "op": "getproperty",
+   "count": 2001,
+   "pct": 11.32
+  },
+  {
+   "op": "getlocal0",
+   "count": 1841,
+   "pct": 10.41
+  },
+  {
+   "op": "pushbyte",
+   "count": 1036,
+   "pct": 5.86
+  },
+  {
+   "op": "getlex",
+   "count": 810,
+   "pct": 4.58
+  },
+  {
+   "op": "dup",
+   "count": 564,
+   "pct": 3.19
+  },
+  {
+   "op": "setproperty",
+   "count": 535,
+   "pct": 3.03
+  },
+  {
+   "op": "callpropvoid",
+   "count": 458,
+   "pct": 2.59
+  },
+  {
+   "op": "debug",
+   "count": 418,
+   "pct": 2.36
+  },
+  {
+   "op": "getlocal1",
+   "count": 417,
+   "pct": 2.36
+  },
+  {
+   "op": "pushstring",
+   "count": 411,
+   "pct": 2.32
+  },
+  {
+   "op": "pushscope",
+   "count": 379,
+   "pct": 2.14
+  },
+  {
+   "op": "initproperty",
+   "count": 359,
+   "pct": 2.03
+  },
+  {
+   "op": "iffalse",
+   "count": 351,
+   "pct": 1.99
+  },
+  {
+   "op": "findpropstrict",
+   "count": 333,
+   "pct": 1.88
+  },
+  {
+   "op": "jump",
+   "count": 275,
+   "pct": 1.56
+  },
+  {
+   "op": "debugfile",
+   "count": 274,
+   "pct": 1.55
+  },
+  {
+   "op": "callproperty",
+   "count": 271,
+   "pct": 1.53
+  },
+  {
+   "op": "getlocal2",
+   "count": 259,
+   "pct": 1.47
+  },
+  {
+   "op": "getlocal",
+   "count": 247,
+   "pct": 1.4
+  },
+  {
+   "op": "returnvoid",
+   "count": 235,
+   "pct": 1.33
+  },
+  {
+   "op": "pop",
+   "count": 180,
+   "pct": 1.02
+  },
+  {
+   "op": "setlocal",
+   "count": 176,
+   "pct": 1.0
+  },
+  {
+   "op": "pushnull",
+   "count": 151,
+   "pct": 0.85
+  },
+  {
+   "op": "equals",
+   "count": 149,
+   "pct": 0.84
+  },
+  {
+   "op": "pushtrue",
+   "count": 147,
+   "pct": 0.83
+  },
+  {
+   "op": "pushshort",
+   "count": 145,
+   "pct": 0.82
+  },
+  {
+   "op": "getlocal3",
+   "count": 140,
+   "pct": 0.79
+  },
+  {
+   "op": "getscopeobject",
+   "count": 131,
+   "pct": 0.74
+  },
+  {
+   "op": "pushfalse",
+   "count": 124,
+   "pct": 0.7
+  }
+ ],
+ "all_opcodes": {
+  "getlocal0": 1841,
+  "pushscope": 379,
+  "debug": 418,
+  "findproperty": 108,
+  "pushstring": 411,
+  "setproperty": 535,
+  "returnvoid": 235,
+  "debugfile": 274,
+  "debugline": 2293,
+  "findpropstrict": 333,
+  "constructprop": 95,
+  "coerce": 123,
+  "setlocal2": 111,
+  "getlocal2": 259,
+  "getlocal1": 417,
+  "callpropvoid": 458,
+  "setlocal3": 79,
+  "getlocal3": 140,
+  "getlex": 810,
+  "callproperty": 271,
+  "returnvalue": 97,
+  "pushbyte": 1036,
+  "convert_d": 65,
+  "jump": 275,
+  "label": 75,
+  "getproperty": 2001,
+  "bitxor": 1,
+  "increment": 26,
+  "iflt": 18,
+  "constructsuper": 18,
+  "newclass": 18,
+  "popscope": 94,
+  "initproperty": 359,
+  "convert_u": 60,
+  "setlocal": 176,
+  "add": 122,
+  "modulo": 2,
+  "subtract": 29,
+  "multiply": 33,
+  "divide": 48,
+  "convert_i": 59,
+  "getlocal": 247,
+  "dup": 564,
+  "increment_i": 25,
+  "lshift": 8,
+  "bitor": 6,
+  "urshift": 6,
+  "bitand": 10,
+  "ifne": 101,
+  "rshift": 2,
+  "applytype": 11,
+  "pushtrue": 147,
+  "construct": 14,
+  "setlocal1": 39,
+  "coerce_s": 51,
+  "inclocal_i": 9,
+  "pushshort": 145,
+  "pushfalse": 124,
+  "iffalse": 351,
+  "pushnull": 151,
+  "pushdouble": 33,
+  "newobject": 7,
+  "ifeq": 66,
+  "decrement_i": 16,
+  "ifgt": 16,
+  "equals": 149,
+  "not": 118,
+  "pop": 180,
+  "kill": 77,
+  "iftrue": 76,
+  "istypelate": 44,
+  "coerce_a": 39,
+  "nextname": 9,
+  "in": 16,
+  "hasnext2": 9,
+  "ifnle": 5,
+  "convert_b": 58,
+  "ifnlt": 16,
+  "callsupervoid": 24,
+  "astypelate": 29,
+  "newarray": 28,
+  "ifnge": 2,
+  "newcatch": 10,
+  "swap": 10,
+  "setslot": 52,
+  "greaterthan": 21,
+  "throw": 3,
+  "ifngt": 22,
+  "deleteproperty": 5,
+  "lessequals": 5,
+  "pushint": 2,
+  "decrement": 5,
+  "pushundefined": 18,
+  "newactivation": 3,
+  "getscopeobject": 131,
+  "getslot": 87,
+  "lessthan": 14,
+  "setsuper": 1,
+  "pushnan": 12,
+  "typeof": 1,
+  "newfunction": 8,
+  "ifstrictne": 34,
+  "lookupswitch": 3,
+  "negate": 1
+ },
+ "elapsed_s": 0.1
+}

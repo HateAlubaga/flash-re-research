@@ -1,0 +1,17 @@
+{
+ "label": "Adobe FP32 (JIT)",
+ "cmd": "flashplayer_32_sa.exe",
+ "window_title": "Adobe Flash Player 32",
+ "window_appear_ms": 4101,
+ "elapsed_s": 15.01,
+ "samples": 149,
+ "visual_fps": 0.0,
+ "changed_frames": 0,
+ "mean_frame_delta": 0.4,
+ "p90_frame_delta": 0.47,
+ "max_frame_delta": 0.58,
+ "cpu_mean_pct": 85.1,
+ "cpu_max_pct": 182.8,
+ "rss_mean_mb": 509.9,
+ "rss_max_mb": 520.7
+}

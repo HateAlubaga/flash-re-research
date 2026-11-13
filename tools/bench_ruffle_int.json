@@ -1,0 +1,17 @@
+{
+ "label": "Ruffle int-interp fork",
+ "cmd": "ruffle_desktop.exe",
+ "window_title": "Ruffle - Epic Battle Fantasy 5.swf",
+ "window_appear_ms": 5644,
+ "elapsed_s": 15.0,
+ "samples": 149,
+ "visual_fps": 0.0,
+ "changed_frames": 0,
+ "mean_frame_delta": 0.26,
+ "p90_frame_delta": 0.37,
+ "max_frame_delta": 0.62,
+ "cpu_mean_pct": 76.2,
+ "cpu_max_pct": 127.8,
+ "rss_mean_mb": 1340.2,
+ "rss_max_mb": 1496.2
+}

@@ -1,0 +1,19 @@
+{
+ "label": "release",
+ "player": "ruffle_desktop.exe",
+ "window_title": "Ruffle - Epic Battle Fantasy 5.swf",
+ "window_appear_ms": 42248,
+ "elapsed_s": 10.02,
+ "samples": 121,
+ "drive_steps": 0,
+ "motion_mean_pct": 2.39,
+ "motion_p50_pct": 2.17,
+ "motion_p90_pct": 5.99,
+ "motion_max_pct": 8.91,
+ "active_intervals": 63,
+ "active_pct": 52.1,
+ "cpu_mean_pct": 37.4,
+ "cpu_max_pct": 100.8,
+ "rss_mean_mb": 1090.8,
+ "rss_max_mb": 1119.8
+}

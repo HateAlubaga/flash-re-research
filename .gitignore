@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+.env
+wallet.json
+state*.json
+# Never commit local player binaries, SWFs or dumps
+*.exe
+*.swf
+*.swc
+*.ocx
+games.json
+*.ruffle-backup
+.DS_Store

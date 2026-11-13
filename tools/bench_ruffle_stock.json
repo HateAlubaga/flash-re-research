@@ -1,0 +1,17 @@
+{
+ "label": "Ruffle stock",
+ "cmd": "ruffle.exe",
+ "window_title": "Ruffle - Epic Battle Fantasy 5.swf",
+ "window_appear_ms": 5368,
+ "elapsed_s": 15.02,
+ "samples": 149,
+ "visual_fps": 0.0,
+ "changed_frames": 0,
+ "mean_frame_delta": 0.3,
+ "p90_frame_delta": 0.36,
+ "max_frame_delta": 0.49,
+ "cpu_mean_pct": 64.8,
+ "cpu_max_pct": 129.0,
+ "rss_mean_mb": 1379.7,
+ "rss_max_mb": 1486.3
+}

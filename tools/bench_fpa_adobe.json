@@ -1,0 +1,19 @@
+{
+ "label": "FPA W1 / Adobe JIT",
+ "player": "flashplayer_32_sa.exe",
+ "window_title": "Adobe Flash Player 32",
+ "window_appear_ms": 2088,
+ "elapsed_s": 12.05,
+ "samples": 113,
+ "drive_steps": 6,
+ "motion_mean_pct": 0.0,
+ "motion_p50_pct": 0.0,
+ "motion_p90_pct": 0.0,
+ "motion_max_pct": 0.0,
+ "active_intervals": 0,
+ "active_pct": 0.0,
+ "cpu_mean_pct": 0.2,
+ "cpu_max_pct": 20.0,
+ "rss_mean_mb": 39.5,
+ "rss_max_mb": 39.6
+}

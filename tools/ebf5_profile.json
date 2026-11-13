@@ -1,0 +1,365 @@
+{
+ "file": "Epic Battle Fantasy 5.swf",
+ "size_mb": 379.5,
+ "swf_version": 28,
+ "declared_body_len": 437694624,
+ "actual_body_len": 437694616,
+ "tag_total_bytes": 437527929,
+ "tag_counts": {
+  "DefineSprite": 8754,
+  "DefineShape": 8723,
+  "DefineShape3": 2179,
+  "CSMTextSettings": 1763,
+  "DefineSound": 1620,
+  "DefineShape4": 1451,
+  "DefineEditText": 1272,
+  "DefineShape2": 1086,
+  "DefineText": 493,
+  "DefineBitsLossless": 163,
+  "DefineBitsJPEG3": 146,
+  "DefineBitsLossless2": 126,
+  "DefineBitsJPEG2": 107,
+  "DefineFont3": 43,
+  "DefineFontAlignZones": 43,
+  "DefineFontName": 42,
+  "DefineBits": 39,
+  "DefineScalingGrid": 30,
+  "ShowFrame": 29,
+  "DefineMorphShape": 27,
+  "PlaceObject2": 23,
+  "DefineMorphShape2": 19,
+  "DefineButton2": 18,
+  "RemoveObject2": 9,
+  "DefineText2": 8,
+  "FrameLabel": 3,
+  "PlaceObject3": 3,
+  "JPEGTables": 2,
+  "DoABC": 2,
+  "SymbolClass": 2,
+  "FileAttributes": 1,
+  "SetBackgroundColor": 1,
+  "DefineSceneAndFrameLabelData": 1,
+  "ScriptLimits": 1,
+  "SoundStreamHead2": 1
+ },
+ "abc_blocks": [
+  {
+   "name": "",
+   "bytes": 10382969,
+   "code_bytes": 2648283
+  },
+  {
+   "name": "",
+   "bytes": 1953932,
+   "code_bytes": 707460
+  }
+ ],
+ "parse_failures": [],
+ "stats": {
+  "abc_blocks": 2,
+  "methods": 30978,
+  "bodies": 30921,
+  "classes": 3618,
+  "multinames": 99154,
+  "code_bytes": 3355743,
+  "total_instr": 1276061
+ },
+ "top_opcodes": [
+  {
+   "op": "getlex",
+   "count": 171903,
+   "pct": 13.47
+  },
+  {
+   "op": "pushbyte",
+   "count": 161855,
+   "pct": 12.68
+  },
+  {
+   "op": "pushstring",
+   "count": 153268,
+   "pct": 12.01
+  },
+  {
+   "op": "getproperty",
+   "count": 102878,
+   "pct": 8.06
+  },
+  {
+   "op": "setproperty",
+   "count": 89526,
+   "pct": 7.02
+  }
+ ],
+ "all_opcodes": {
+  "getlex": 171903,
+  "pushbyte": 161855,
+  "callpropvoid": 37414,
+  "setlocal2": 2020,
+  "getlocal1": 9414,
+  "getproperty": 102878,
+  "decrement": 533,
+  "convert_i": 2167,
+  "setlocal3": 1457,
+  "getlocal3": 2733,
+  "ifnge": 230,
+  "jump": 5923,
+  "label": 1120,
+  "dup": 14202,
+  "setlocal": 2871,
+  "getlocal2": 3907,
+  "typeof": 10,
+  "getlocal": 4772,
+  "call": 168,
+  "kill": 3556,
+  "pop": 6364,
+  "increment_i": 390,
+  "iflt": 263,
+  "returnvoid": 31524,
+  "setproperty": 89526,
+  "findproperty": 53839,
+  "findpropstrict": 23876,
+  "pushshort": 33429,
+  "ifngt": 443,
+  "subtract": 690,
+  "pushint": 745,
+  "pushundefined": 598,
+  "coerce_a": 1845,
+  "iffalse": 14694,
+  "istypelate": 625,
+  "callproplex": 18,
+  "pushtrue": 3413,
+  "nextname": 27,
+  "pushfalse": 3800,
+  "hasnext2": 628,
+  "iftrue": 4421,
+  "convert_b": 2903,
+  "callproperty": 8780,
+  "not": 2410,
+  "pushstring": 153268,
+  "add": 8069,
+  "constructprop": 2844,
+  "throw": 26,
+  "astypelate": 861,
+  "coerce": 2433,
+  "setlocal1": 4401,
+  "pushnull": 2953,
+  "equals": 3896,
+  "newactivation": 254,
+  "pushscope": 55213,
+  "getscopeobject": 6114,
+  "setslot": 1218,
+  "getslot": 2909,
+  "returnvalue": 934,
+  "ifstrictne": 41,
+  "lookupswitch": 8,
+  "newcatch": 560,
+  "swap": 620,
+  "popscope": 24346,
+  "coerce_s": 532,
+  "bitor": 23,
+  "newfunction": 1033,
+  "newobject": 14785,
+  "getlocal0": 67286,
+  "initproperty": 10850,
+  "convert_d": 473,
+  "increment": 315,
+  "ifstricteq": 9,
+  "newarray": 64888,
+  "strictequals": 10,
+  "ifnlt": 858,
+  "convert_u": 172,
+  "convert_s": 109,
+  "constructsuper": 3613,
+  "construct": 76,
+  "divide": 1152,
+  "multiply": 2569,
+  "ifeq": 278,
+  "pushdouble": 7313,
+  "ifne": 6066,
+  "nextvalue": 601,
+  "pushnan": 28,
+  "greaterthan": 201,
+  "lessthan": 703,
+  "greaterequals": 209,
+  "ifnle": 90,
+  "modulo": 62,
+  "lessequals": 183,
+  "inclocal_i": 349,
+  "newclass": 3618,
+  "deleteproperty": 10,
+  "decrement_i": 108,
+  "pushwith": 2,
+  "ifgt": 4,
+  "ifle": 133,
+  "applytype": 2,
+  "ifge": 4,
+  "getglobalscope": 186,
+  "negate": 13,
+  "lshift": 17,
+  "bitand": 33,
+  "rshift": 22,
+  "bitxor": 8,
+  "urshift": 7,
+  "bitnot": 3,
+  "callsuper": 1,
+  "in": 3,
+  "callsupervoid": 1,
+  "debug": 1677,
+  "declocal_i": 4,
+  "inclocal": 17
+ },
+ "top_bigrams": [
+  {
+   "pair": "getlex+getproperty",
+   "count": 57728,
+   "pct": 4.52
+  },
+  {
+   "pair": "pushstring+pushbyte",
+   "count": 49292,
+   "pct": 3.86
+  },
+  {
+   "pair": "setproperty+findproperty",
+   "count": 46913,
+   "pct": 3.68
+  },
+  {
+   "pair": "pushstring+pushstring",
+   "count": 44222,
+   "pct": 3.47
+  },
+  {
+   "pair": "pushbyte+newarray",
+   "count": 40418,
+   "pct": 3.17
+  },
+  {
+   "pair": "findproperty+pushstring",
+   "count": 38434,
+   "pct": 3.01
+  },
+  {
+   "pair": "pushbyte+pushstring",
+   "count": 38097,
+   "pct": 2.99
+  },
+  {
+   "pair": "newarray+setproperty",
+   "count": 36711,
+   "pct": 2.88
+  },
+  {
+   "pair": "setproperty+getlex",
+   "count": 34773,
+   "pct": 2.73
+  },
+  {
+   "pair": "pushscope+getlex",
+   "count": 32998,
+   "pct": 2.59
+  },
+  {
+   "pair": "getlex+pushbyte",
+   "count": 31063,
+   "pct": 2.43
+  },
+  {
+   "pair": "getlocal0+pushscope",
+   "count": 30442,
+   "pct": 2.39
+  },
+  {
+   "pair": "getproperty+pushbyte",
+   "count": 28327,
+   "pct": 2.22
+  },
+  {
+   "pair": "getlocal0+getproperty",
+   "count": 26303,
+   "pct": 2.06
+  },
+  {
+   "pair": "getlex+getlex",
+   "count": 26101,
+   "pct": 2.05
+  },
+  {
+   "pair": "getlex+pushscope",
+   "count": 23783,
+   "pct": 1.86
+  },
+  {
+   "pair": "callpropvoid+returnvoid",
+   "count": 20179,
+   "pct": 1.58
+  },
+  {
+   "pair": "popscope+popscope",
+   "count": 20170,
+   "pct": 1.58
+  },
+  {
+   "pair": "pushbyte+pushbyte",
+   "count": 17521,
+   "pct": 1.37
+  },
+  {
+   "pair": "pushstring+setproperty",
+   "count": 14284,
+   "pct": 1.12
+  },
+  {
+   "pair": "pushstring+getlex",
+   "count": 12580,
+   "pct": 0.99
+  },
+  {
+   "pair": "newobject+setproperty",
+   "count": 10628,
+   "pct": 0.83
+  },
+  {
+   "pair": "pushbyte+setproperty",
+   "count": 10055,
+   "pct": 0.79
+  },
+  {
+   "pair": "getproperty+getlex",
+   "count": 9485,
+   "pct": 0.74
+  },
+  {
+   "pair": "getproperty+callpropvoid",
+   "count": 9360,
+   "pct": 0.73
+  },
+  {
+   "pair": "newarray+getlex",
+   "count": 9195,
+   "pct": 0.72
+  },
+  {
+   "pair": "pushshort+pushshort",
+   "count": 8501,
+   "pct": 0.67
+  },
+  {
+   "pair": "pushbyte+pushshort",
+   "count": 8331,
+   "pct": 0.65
+  },
+  {
+   "pair": "pushstring+newobject",
+   "count": 8318,
+   "pct": 0.65
+  },
+  {
+   "pair": "pushshort+pushbyte",
+   "count": 8190,
+   "pct": 0.64
+  }
+ ],
+ "elapsed_s": 16.9
+}

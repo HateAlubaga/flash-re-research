@@ -1,0 +1,19 @@
+{
+ "label": "Ruffle int-fork GC=stop_the_world",
+ "player": "ruffle_desktop.exe",
+ "window_title": "Ruffle - Epic Battle Fantasy 5.swf",
+ "window_appear_ms": 6319,
+ "elapsed_s": 15.05,
+ "samples": 187,
+ "drive_steps": 8,
+ "motion_mean_pct": 3.16,
+ "motion_p50_pct": 0.47,
+ "motion_p90_pct": 1.59,
+ "motion_max_pct": 84.65,
+ "active_intervals": 49,
+ "active_pct": 26.2,
+ "cpu_mean_pct": 82.9,
+ "cpu_max_pct": 201.6,
+ "rss_mean_mb": 1390.4,
+ "rss_max_mb": 1533.5
+}
